@@ -2,8 +2,6 @@
 
 本仓库复现 Zhao 和 Zelazo 论文 *Translational and Scaling Formation Maneuver Control via a Bearing-Based Approach* 中的核心算法。代码使用 Python 实现基于方位拉普拉斯矩阵的 leader-follower 编队控制，并给出静止、恒定速度和时变速度三类 leader 运动的仿真、误差指标和 GIF 动画。
 
-论文原文：[1506.05636v2.pdf](1506.05636v2.pdf)
-
 ## 功能
 
 - 构造目标方位、正交投影矩阵和方位拉普拉斯矩阵。
